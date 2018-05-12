@@ -2,10 +2,12 @@
 ---
 A [Flarum](http://flarum.org) extension that adds share (to some popular social networks) buttons and \<head> meta tags (Open Graph and Twitter Card) to make links to your forum look better.
 
+Forked by GaNuongLaChanh
+
 Based on the work of the developers:
 * [BinhQuang](https://discuss.flarum.org/u/BinhQuang) ([Github](https://github.com/tutula1/vingle-share-social)).
 * [NikolaiMorozov](https://discuss.flarum.org/u/NikolaiMorozov) ([Github](https://github.com/avatar4eg/flarum-ext-share-social))
-
+* [radixi0](https://github.com/radixi0/)
 ### Screenshots
 ---
 ##### Settings:  
@@ -23,7 +25,7 @@ Based on the work of the developers:
 ### Installation
 
 ```bash
-composer require radixi0/flarum-ext-sharing
+composer require ganuonglachanh/flarum-ext-sharing
 ```
 
 ### Configuration
@@ -37,7 +39,7 @@ On discussion page in sidebar there is a new "Share" button which shows a list o
 
 ### Links
 
-- [on github](https://github.com/radixi0/flarum-ext-sharing)
-- [on packagist](https://packagist.org/packages/radixi0/flarum-ext-sharing)
-- [issues](https://github.com/radixi0/flarum-ext-sharing/issues)
+- [on github](https://github.com/ganuonglachanh/flarum-ext-sharing)
+- [on packagist](https://packagist.org/packages/ganuonglachanh/flarum-ext-sharing)
+- [issues](https://github.com/ganuonglachanh/flarum-ext-sharing/issues)
 

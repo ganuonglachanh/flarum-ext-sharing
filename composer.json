@@ -1,5 +1,5 @@
 {
-    "name": "radixi0/flarum-ext-sharing",
+    "name": "ganuonglachanh/flarum-ext-sharing",
     "description": "A new way of sharing discussions on social networks!",
     "type": "flarum-extension",
     "require": {
